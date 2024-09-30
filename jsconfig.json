@@ -1,0 +1,11 @@
+{
+    "typeAcquisation": {
+        "include": ["jest"]
+    },
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "*": ["*.js"]
+        }
+    }
+}
